@@ -1,17 +1,7 @@
 # qualplaca
 
-A new Flutter project.
+Aplicativo desenvolvido para a matéria de Introdução às Inteligências Artificais do curso de Sistemas de Informação UFSM-FW
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# qualplacaapp" 
+Esse projeto visa aplicar alguns conceitos de Sistemas Especialistas para a recomendação da melhor placa de vídeo com base nas necessidades do usuário
