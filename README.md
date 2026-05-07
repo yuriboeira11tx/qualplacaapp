@@ -1,6 +1,6 @@
 # qualplaca
 
-Aplicativo desenvolvido para a matéria de Introdução às Inteligências Artificais do curso de Sistemas de Informação UFSM-FW
+Aplicativo desenvolvido para a matéria de Introdução às Inteligências Artificiais do curso de Sistemas de Informação UFSM-FW
 
 ## Objetivo
 
